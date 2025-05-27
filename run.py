@@ -4,9 +4,9 @@ import zipfile
 
 # Configurações
 sprite_size = 24
-input_path = "slime_green.png"
-output_dir = "sprites_24x24"
-zip_name = "sprites_24x24.zip"
+input_path = "name_sprite.png"
+output_dir = "name_sprite"
+zip_name = "name_sprite.zip"
 
 # Criar pasta de saída
 os.makedirs(output_dir, exist_ok=True)
